@@ -22,10 +22,10 @@ global.location = '1'; // Replace with your location panel
 
 //===========================//
 
-global.prefa = ['.'];
-global.owner = ['242044190987'];
-global.ownMain = '242044190987';
-global.NamaOwner = 'BLOOD JOKER'; // Do not change 
+global.prefa = ['/'];
+global.owner = ['237672696895'];
+global.ownMain = '237672696895';
+global.NamaOwner = 'elblacky'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
 global.namabot = 'DATA JOKER'; // Do not change
@@ -46,7 +46,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 //===========================//
 
-global.country = '234';
+global.country = '237';
 global.system = {
   gmail: 'winneraileme6@gmail.com',
 };
